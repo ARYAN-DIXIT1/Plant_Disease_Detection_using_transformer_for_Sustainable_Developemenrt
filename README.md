@@ -1,0 +1,1 @@
+# Plant_Disease_Detection_using_transformer_for_Sustainable_Developemenrt
